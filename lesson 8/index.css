@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0px;
+}
+
+.container {
+    background-image: url(./image/rasm.jpg);
+    background-size: cover;
+    height: 70vh;
+
+}
+
+.img img {
+    height: 70px;
+    width: 70px;
+}
+
+.navbar {
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-size: 25px;
+    height: 60px;
+    gap: 120px;
+    align-items: center;
+    border-bottom: 1px solid rgb(87, 87, 185);
+}
+
+.h1 {
+    font-size: 100px;
+    color: white;
+    margin-left: 530px;
+    margin-top: 40px;
+}
+
+.button {
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    margin-left: 400px;
+    background: none;
+    color: rgb(153, 194, 235);
+    box-shadow: 1px 1px 1px;
+    border: 2px solid rgb(153, 194, 235);
+}
+
+.img {
+    display: flex;
+    margin: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav2 {
+    font-size: 27px;
+    text-align: center;
+
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav3 {
+    display: flex;
+    margin-bottom: 14px;
+    width: 77vw;
+    padding: 0 30px;
+    justify-content: space-between;
+    border-bottom: 2px solid blue;
+}
+
+#but {
+    height: 40px;
+    width: 150px;
+    font-size: 25px;
+    background-color: rgb(42, 165, 173);
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.end {
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+.im {
+    padding-top: 10px;
+    height: 30px;
+    padding-left: 900px;
+    width: 30px;
+    display: flex;
+    
+}
+
+.en2 {
+    display: flex;
+    height: 60px;
+    border: 2px solid blue;
+    background-color: aqua;
+    border: none;
+}

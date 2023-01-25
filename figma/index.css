@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  top: 100px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  height: 5000px;
+  width: 1440px;
+  background: #ffffff;
+  border: 2px solid black;
+  left: 120px;
+  display: flex;
+}
+#star{
+    width: 148.28px;
+    height: 148.28px;
+    padding-left: 835px;
+    top: 21.6px;
+}
+.navbar {
+  position: absolute;
+  left: 165px;
+  top: 60px;
+  height: 39.01508712768555px;
+  width: 42.467796325683594px;
+ 
+}
+.text {
+  position: absolute;
+  left: 165px;
+  display: flex;
+  justify-content: space-around;
+  top: 85px;
+
+}

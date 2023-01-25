@@ -1,0 +1,21 @@
+body{
+    width: 100wh;
+    height: 100vh;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: all 1s linear;
+}
+.container:hover{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 100%;
+    transform:rotate();
+}
